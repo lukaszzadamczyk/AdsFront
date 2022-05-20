@@ -3,6 +3,7 @@ import {SearchContext} from "../../../contexts/search.context";
 
 import './Header.css';
 import {Btn} from "../../common/Btn/Btn";
+import {Link} from "react-router-dom";
 
 export const Header = () => {
 
@@ -18,7 +19,10 @@ export const Header = () => {
     return (
     <header>
         <h1>
-            <strong>Good</strong> Announcements
+
+            <Link className='header-link' to='/' id="style-2" data-replace="Home">
+                <span><strong>Good</strong> Announcements</span>
+            </Link>
         </h1>
         <Btn to='/add' text='Add announcements'/>
         <form className='search' onSubmit={setSearchFromLocalState}>
