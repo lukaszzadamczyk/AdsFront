@@ -1,21 +1,26 @@
 import React, {useState} from 'react';
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+import { SearchContext } from './contexts/search.context';
 import {Header} from "./components/layout/Header/Header";
 import {Map} from "./components/Map/Map";
-import { SearchContext } from './contexts/search.context';
+import { AddForm } from './components/AddForm/AddForm';
 
 export const App = () => {
 
     const [search, setSearch] = useState('');
 
   return (
-    <>
+    <BrowserRouter>
         <SearchContext.Provider value={{
             search,
             setSearch
         }}>
             <Header/>
-            <Map/>
+            <Routes>
+                <Route path='/' element={<Map/>}/>
+                <Route path='/' element={<AddForm/>}/>
+            </Routes>
         </SearchContext.Provider>
-    </>
+    </BrowserRouter>
   );
 }

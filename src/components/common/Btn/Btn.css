@@ -1,4 +1,4 @@
-button {
+button, .btn {
     padding: 10px 25px;
     border: none;
     border-radius: 5px;
@@ -6,8 +6,10 @@ button {
     background-color: rgb(84 171 56);
     font-size: 0.8rem;
     font-weight: 500;
+    line-height: 22px;
     text-transform: uppercase;
     cursor: pointer;
+    text-decoration: none;
     transition: 0.3s;
 }
 
