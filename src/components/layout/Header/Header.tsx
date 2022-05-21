@@ -24,7 +24,7 @@ export const Header = () => {
                 <span><strong>Good</strong> Announcements</span>
             </Link>
         </h1>
-        <Btn to='/add' text='Add announcements'/>
+        <Btn to='/add' text='Add announcement'/>
         <form className='search' onSubmit={setSearchFromLocalState}>
             <input value={inputVal} onChange={e => setInputVal(e.target.value)} type="text"/> <Btn text='Search'/>
         </form>
