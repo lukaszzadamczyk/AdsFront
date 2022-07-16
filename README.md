@@ -1,3 +1,21 @@
+# ADS APPLICATION
+
+It is an application with which you can add and search ads. To search for ads, there is a field in which you can enter what you want to find. Ads are visible on the map. You can also add your ads using the form.
+
+# DEMO
+
+Demo preview of the application: [DEMO](https://www.lukaszadamczyk.networkmanager.pl/)
+
+## Environment
+
+**React**: 18.1.0
+
+**Typescript**: 4.6.4
+
+**React-router-dom**: 6.3.0
+
+**Leaflet**: 1.8.0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
