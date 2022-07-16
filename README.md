@@ -2,7 +2,7 @@
 
 It is an application with which you can add and search ads. To search for ads, there is a field in which you can enter what you want to find. Ads are visible on the map. You can also add your ads using the form.
 
-# DEMO
+## DEMO
 
 Demo preview of the application: [DEMO](https://www.lukaszadamczyk.networkmanager.pl/)
 
