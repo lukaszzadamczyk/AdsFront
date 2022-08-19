@@ -12,7 +12,7 @@ Demo preview of the application: [DEMO](https://www.lukaszadamczyk.networkmanage
 
 <img width="1439" alt="HomePage" src="https://user-images.githubusercontent.com/62346487/185615433-75112a19-f7ef-4c14-b1ae-98ae3ecd83b0.png">
 
-### View of adding a new advertisement
+### Add Advertisement View
 
 <img width="1439" alt="AddPage" src="https://user-images.githubusercontent.com/62346487/185615325-f4e7906b-2646-490b-b519-87bcd6b5b5cc.png">
 
