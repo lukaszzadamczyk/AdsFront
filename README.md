@@ -6,16 +6,6 @@ It is an application with which you can add and search ads. To search for ads, t
 
 Demo preview of the application: [DEMO](https://www.lukaszadamczyk.networkmanager.pl/)
 
-## Screenshots
-
-### Home Page View
-
-<img width="1439" alt="HomePage" src="https://user-images.githubusercontent.com/62346487/185615433-75112a19-f7ef-4c14-b1ae-98ae3ecd83b0.png">
-
-### Add Advertisement View
-
-<img width="1439" alt="AddPage" src="https://user-images.githubusercontent.com/62346487/185615325-f4e7906b-2646-490b-b519-87bcd6b5b5cc.png">
-
 ## Environment
 
 **React**
@@ -25,6 +15,16 @@ Demo preview of the application: [DEMO](https://www.lukaszadamczyk.networkmanage
 **React-router-dom**
 
 **Leaflet**
+
+## Screenshots
+
+### Home Page View
+
+<img width="1439" alt="HomePage" src="https://user-images.githubusercontent.com/62346487/185615433-75112a19-f7ef-4c14-b1ae-98ae3ecd83b0.png">
+
+### Add Advertisement View
+
+<img width="1439" alt="AddPage" src="https://user-images.githubusercontent.com/62346487/185615325-f4e7906b-2646-490b-b519-87bcd6b5b5cc.png">
 
 # Getting Started with Create React App
 
