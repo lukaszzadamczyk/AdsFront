@@ -6,6 +6,10 @@ It is an application with which you can add and search ads. To search for ads, t
 
 Demo preview of the application: [DEMO](https://www.lukaszadamczyk.networkmanager.pl/)
 
+## Screenshots
+
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://user-images.githubusercontent.com/62346487/185613359-1dc01d75-d1e7-4a0f-bd09-276544f2b6fe.png))
+
 ## Environment
 
 **React**
