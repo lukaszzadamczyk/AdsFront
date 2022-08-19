@@ -8,7 +8,7 @@ Demo preview of the application: [DEMO](https://www.lukaszadamczyk.networkmanage
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://user-images.githubusercontent.com/62346487/185613359-1dc01d75-d1e7-4a0f-bd09-276544f2b6fe.png))
+![App Screenshot]([<img width="1439" alt="Zrzut ekranu 2022-08-19 o 13 46 35" src="https://user-images.githubusercontent.com/62346487/185613805-9b65a50f-a571-4cb7-9da8-1b07c80af30a.png">))
 
 ## Environment
 
